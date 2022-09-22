@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630539782090",
+    "project_id": "bloc-training",
+    "storage_bucket": "bloc-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630539782090:android:ff1a87d6df8fd9a0817133",
+        "android_client_info": {
+          "package_name": "com.example.bloc_pattern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630539782090-lsidol50uagst50mq50ejjs9s9gvb37h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-Jn-sAuETf73JglQkZ8OkPljNTs5aMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630539782090-lsidol50uagst50mq50ejjs9s9gvb37h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
